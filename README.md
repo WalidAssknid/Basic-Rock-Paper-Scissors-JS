@@ -1,6 +1,6 @@
 # Rock Paper Scissors JS
 
-![Screenshot](screenshot.png)
+![Screenshot](image.png)
 
 This is a simple Rock Paper Scissors game built while learning the basics of HTML, CSS, and JavaScript. The project demonstrates fundamental web development concepts and interactive UI features.
 
